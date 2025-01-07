@@ -1,1 +1,13 @@
 src/datascience/__pycache__
+src/datascience/components/__pycache__
+src/datascience/config/__pycache__
+src/datascience/constants/__pycache__
+src/datascience/entity/__pycache__
+src/datascience/pipeline/__pycache__
+src/datascience/utils/__pycache__
+.DS_Store
+src/.DS_Store
+src/datascience/.DS_Store
+logs/
+artifacts/
+.idea/
