@@ -11,7 +11,7 @@ from src.datascience.constants import *
 from src.datascience.utils.common import save_json
 
 import os
-os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/amos.jerome1994/datascienceproject.mlflow"
+os.environ["MLFLOW_TRACKING_URI"]=""
 os.environ["MLFLOW_TRACKING_USERNAME"]=""
 os.environ["MLFLOW_TRACKING_PASSWORD"]=""
 

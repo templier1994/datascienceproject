@@ -21,3 +21,7 @@ This project is an end to end data science project used to train MLOps.
 6. Update the components
 7. Update the pipeline 
 8. Update the main.py
+
+
+### Run
+to run the projet don't forget to add DagsHub credential into src/datascience/components/model_evaluation.py
